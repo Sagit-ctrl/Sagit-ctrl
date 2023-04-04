@@ -2,7 +2,7 @@
 - 💞️ I was born in 2000 in Vietnam and I am a student in HUST (Hanoi University of Science and Technology)
 - 👀 I’m interested in machine learning, deep learning, game, IoT app, web, etc.... with python - my favourite code language
 - 🌱 I’m currently learning machine learning, deep learning, game, IoT app
-- 📫 Contact with me: fb https://www.facebook.com/Sagit2k/, gmail duckid55@gmail.com or phone 0368572406
+- 📫 Contact with me: fb https://www.facebook.com/buivietduc.hust, gmail buivietduc.hust@gmail.com or phone 0347636864
 
 <!---
 Sagit-ctrl/Sagit-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
